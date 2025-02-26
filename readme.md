@@ -7,6 +7,7 @@ Simple Trucking Job Script For The QBox Framework
 
 ## Dependencies
 Ox_Lib - https://github.com/overextended/ox_lib
+
 Ox_Target - https://github.com/overextended/ox_target
 
 (Should come with QBox by default)
